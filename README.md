@@ -13,7 +13,9 @@ It was made by Gerardo Carrillo and was created on base with
 
 <li>Cucumber</li>
 
-<li>EncripTool added on java mail</li>
+<li>EncripTool added on java main</li>
+
+<h3>instructions</h3>
 
 To Run this project you need to set up and install a few things
 
