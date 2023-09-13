@@ -15,7 +15,7 @@ It was made by Gerardo Carrillo and was created on base with
 
 <li>EncripTool added on java main</li>
 
-<h3>instructions</h3>
+<h2>Instructions</h2>
 
 To Run this project you need to set up and install a few things
 
